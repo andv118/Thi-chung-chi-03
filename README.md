@@ -1,1 +1,2 @@
-# Thi-chung-chi-03
+12/11: update
+login google, facebook, notification, admob
